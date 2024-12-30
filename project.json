@@ -1,0 +1,6 @@
+{
+	"system": {
+		"installer": "scripts/dependencies",
+		"dependencies": ["jq", "go"]
+	}
+}
